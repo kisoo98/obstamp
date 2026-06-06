@@ -9,6 +9,12 @@ OBS 녹화·방송 중 핫키를 누르면 현재 시간을 자동으로 기록�
 
 ---
 
+## 다운로드
+
+[v1.0.3 릴리즈 페이지](https://github.com/kisoo98/obstamp/releases/tag/v1.0.3)에서 `timestamp_hotkey.exe` 파일을 다운받아 실행하세요.
+
+---
+
 ## 사용 방법 (요약)
 
 1. OBS → 도구 → **WebSocket 서버 설정**에서 활성화 (포트 `4455`)
